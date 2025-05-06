@@ -1,0 +1,1 @@
+export default function IAFirstLevel() { return <div>IA Adventure Loading...</div> }
