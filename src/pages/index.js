@@ -1,5 +1,5 @@
-import IAFirstLevel from '../components/IAFirstLevel'
+import IAFirstLevel from '../components/IAFirstLevel_debug_fixed'
 
 export default function Home() {
   return <IAFirstLevel />
-}fix caricamento
+}
