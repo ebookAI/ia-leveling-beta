@@ -124,4 +124,4 @@ export default function IAFirstLevel() {
       )}
     </div>
   )
-}versione semplificata
+}
