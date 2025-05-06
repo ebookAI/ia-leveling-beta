@@ -1,5 +1,5 @@
-import dynamic from 'next/dynamic'
-const IAFirstLevel = dynamic(() => import('../components/IAFirstLevel'), { ssr: false })
+import IAFirstLevel from '../components/IAFirstLevel'
+
 export default function Home() {
   return <IAFirstLevel />
-}
+}fix caricamento
